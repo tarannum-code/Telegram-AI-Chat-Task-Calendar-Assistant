@@ -49,18 +49,6 @@ Example conversation with the Telegram bot demonstrating:
 
 ![Telegram Chat](screenshots/telegram-chat-bot.png))
 
----
-
-### 2️⃣ Telegram Chat Example
-
-> *(Add a screenshot showing interaction with the Telegram bot)*
-
-```
-/screenshots/telegram-chat.png
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * **n8n** – Workflow automation
@@ -119,14 +107,6 @@ You must add your own credentials inside n8n:
 * No API keys or secrets are stored in this repository
 * All credentials must be configured locally in n8n
 * Safe to use in public GitHub repositories
-
----
-
-## 📄 License
-
-MIT License
-
----
 
 ## 🙌 Credits
 
